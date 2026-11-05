@@ -1,0 +1,8 @@
+# Gerador de Senhas - Dependências
+# Instale com: pip install -r requirements.txt
+
+# Framework Flet para interface gráfica
+flet>=0.27.0
+
+# Criptografia para armazenamento seguro de senhas
+cryptography>=41.0.0
