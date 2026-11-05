@@ -47,18 +47,6 @@ O **Password Generator** é um gerador de senhas profissional que combina usabil
 | **Cryptography** | 41.0.0+ | Criptografia Fernet |
 | **secrets** | padrão | Geração segura de senhas |
 
----
-
-## 📸 Capturas de Tela
-
-### Modo Claro
-![Modo Claro](docs/ModoClaro.jpg)
-
-### Modo Escuro
-![Modo Escuro](docs/ModoEscuro.jpg)
-
-### Código Fonte
-![Código Fonte](docs/Codigo.jpg)
 
 ---
 
